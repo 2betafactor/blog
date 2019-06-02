@@ -1,6 +1,6 @@
 ---
 title: Another Post!
-date: "2019-06-02T23:46:37.121Z"
+date: "2019-06-01T23:46:37.121Z"
 ---
 
 So how I manage to deploy this blog in my local host? I used these two articles
