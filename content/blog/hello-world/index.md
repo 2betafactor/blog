@@ -1,21 +1,12 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-06-02T22:12:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is the first blog post
 
-I'm sure I'll write a lot more interesting things in the future.
+Today's featured picture in Wikipedia: [The mystical Nativity](https://en.wikipedia.org/wiki/The_Mystical_Nativity).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+>The Mystical Nativity is an oil-on-canvas painting by the Italian Renaissance master Sandro Botticelli, dated around 1500 to 1501. It is his only signed work and has unusual iconography for a painting of the Nativity. The Virgin Mary is shown kneeling before the Christ Child in the centre, in the presence of the shepherds and wise men who are visiting him. At the bottom of the work, three angels embrace three men, seeming to raise them up from the ground, while seven devils behind them flee to the underworld.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+![The Mystical Nativity](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mystic_Nativity%2C_Sandro_Botticelli.jpg/640px-Mystic_Nativity%2C_Sandro_Botticelli.jpg)

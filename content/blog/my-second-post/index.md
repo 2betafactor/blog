@@ -1,13 +1,11 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: Another Post!
+date: "2019-06-02T23:46:37.121Z"
 ---
 
-Wow! I love blogging so much already.
+So how I manage to deploy this blog in my local host? I used these two articles
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](http://en.wikipedia.org/wiki/Salted_duck_egg))
+- [Start a Blog in 2019 with Gatsby.js and Netlify](https://daveceddia.com/start-blog-gatsby-netlify/)
 
-Yeah, I didn't either.
+As usual I run into some trouble, this time was EACCES and this Stack Overflow post helped me resolve the problem
+- [Error: EACCES: permission denied, access '/usr/lib/node_modules'](https://stackoverflow.com/questions/46058546/error-eacces-permission-denied-access-usr-lib-node-modules)
